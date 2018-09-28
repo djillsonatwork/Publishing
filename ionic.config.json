@@ -1,0 +1,8 @@
+{
+  "name": "Publishing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ceefa9f3"
+}
